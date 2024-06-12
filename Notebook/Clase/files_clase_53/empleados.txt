@@ -1,0 +1,2 @@
+1,Juan Pérez,Contabilidad,2019-03-15
+2,Ana Gómez,Marketing,2020-06-11
